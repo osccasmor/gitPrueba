@@ -1,1 +1,0 @@
-print("Agrego nueva linea fichero python 2 desde VSC")
